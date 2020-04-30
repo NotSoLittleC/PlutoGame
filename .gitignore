@@ -61,4 +61,6 @@ crashlytics-build.properties
 Pluto/Temp/UnityLockfile
 Pluto/Library/EditorInstance.json
 Pluto/Library/
-*
+Pluto/Library/assetDatabase3
+Pluto/Library
+Pluto/Temp
