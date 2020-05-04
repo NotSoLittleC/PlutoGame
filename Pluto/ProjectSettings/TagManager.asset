@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - PickUp
+  - Enemy
+  - Projectile
   layers:
   - Default
   - TransparentFX
@@ -40,4 +43,37 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3342509313
+    locked: 0
+  - name: Midground
+    uniqueID: 4043038755
+    locked: 0
+  - name: Ground
+    uniqueID: 4020818153
+    locked: 0
+  - name: ObjectsBack
+    uniqueID: 182680703
+    locked: 0
+  - name: Enemies
+    uniqueID: 1225174763
+    locked: 0
+  - name: Player
+    uniqueID: 790576635
+    locked: 0
+  - name: ObjectsFront
+    uniqueID: 2476617725
+    locked: 0
+  - name: Foreground
+    uniqueID: 3479926831
+    locked: 0
+  - name: Parallax
+    uniqueID: 644277923
+    locked: 0
+  - name: Scrim
+    uniqueID: 1523283395
+    locked: 0
+  - name: UI
+    uniqueID: 4033451127
     locked: 0
